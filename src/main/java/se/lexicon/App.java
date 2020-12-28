@@ -12,6 +12,9 @@ public class App
             System.out.println( "im an adult" );
         }else{
             System.out.println( "you are not adult" );
+            System.out.println( "you can enter" );
+
+
         }
 
 
